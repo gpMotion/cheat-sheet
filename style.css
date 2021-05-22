@@ -1,0 +1,32 @@
+body {
+	font-family: Helvetica;
+	background-color: olivedrab;
+}
+
+h1 {
+	display: block;
+	font-size: 2em;
+	font-weight: bolder;
+	padding: 10px;
+	text-align: center;
+	color: black;
+}
+
+h2 {
+	color: darkolivegreen;
+	text-align: center;
+}
+
+table {
+	border: 2px solid olive;
+	width: auto;
+	margin: 0 auto;
+}
+
+thead {
+	background-color: darkolivegreen;
+}
+
+td {
+	border-top: 1px dashed darkolivegreen;
+}
